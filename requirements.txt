@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pygame
+pydub
+openai
+python-multipart
