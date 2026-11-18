@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1A2E,50:1B66C8,100:2F80ED&height=190&section=header&text=TTS%20Module&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Text%20to%20speech%20for%20any%20chatbot%2C%20as%20a%20small%20API&descSize=16&descAlignY=58" width="100%" alt="TTS Module"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A0D2E,50:C2185B,100:FF8FC7&height=190&section=header&text=TTS%20Module&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Text%20to%20speech%20for%20any%20chatbot%2C%20as%20a%20small%20API&descSize=16&descAlignY=58" width="100%" alt="TTS Module"/>
 
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
@@ -86,8 +86,8 @@ Python, FastAPI, Uvicorn, OpenAI Python SDK (chat and speech models), python-dot
 
 **Afnan Shoukat**
 
-<a href="mailto:afnanshoukat35@gmail.com"><img src="https://img.shields.io/badge/Email-afnanshoukat35%40gmail.com-2F80ED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1A2E" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/afnanshoukat"><img src="https://img.shields.io/badge/LinkedIn-Afnan%20Shoukat-2F80ED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1A2E" alt="LinkedIn"/></a>
-<a href="https://github.com/21Afnan"><img src="https://img.shields.io/badge/GitHub-21Afnan-2F80ED?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1A2E" alt="GitHub"/></a>
+<a href="mailto:afnanshoukat35@gmail.com"><img src="https://img.shields.io/badge/Email-afnanshoukat35%40gmail.com-FF4FA3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4A0D2E" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/afnanshoukat"><img src="https://img.shields.io/badge/LinkedIn-Afnan%20Shoukat-FF4FA3?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4A0D2E" alt="LinkedIn"/></a>
+<a href="https://github.com/21Afnan"><img src="https://img.shields.io/badge/GitHub-21Afnan-FF4FA3?style=for-the-badge&logo=github&logoColor=white&labelColor=4A0D2E" alt="GitHub"/></a>
 
 </div>
